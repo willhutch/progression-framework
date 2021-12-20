@@ -17,7 +17,7 @@ topics:
           - "Delivers results through personal effort and skills"
       - level: 2
         criteria:
-          - "Identifies areas/subjects they don’t know and proactively seeks out knowledge"
+          - "Identifies areas or subjects they don’t know and proactively seeks out knowledge"
           - "Understands how their work drives value for Global "
           - "Developed a particular expertise and knowledge in own area"
           - "Works with limited supervision and delivers reliably"
@@ -63,7 +63,7 @@ topics:
           - "Owns the implementation of the solution and can successfully gain buy-in for their proposals "
           - "Promptly and effectively deals with unforeseen risks as they arise "
           - "Proactively suggest new ideas for practice development and takes the lead in implementing "
-          - "Provides praise and recognition to others""
+          - "Provides praise and recognition to others"
       - level: 4
         criteria:
           - "Can take a long-term vision and define building blocks to get there"
