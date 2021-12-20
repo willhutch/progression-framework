@@ -1,8 +1,8 @@
 ---
-path: "/engineering/data"
-title: "📊 Data Engineering Framework"
-sidebarTitle: "📊 Data"
-sidebarGroup: "engineering"
+path: "/data/dataanalytics"
+title: "📊 Data Analytics Framework"
+sidebarTitle: "📊 Analytics"
+sidebarGroup: "data"
 yaml: true
 levels: 6
 homepage: true

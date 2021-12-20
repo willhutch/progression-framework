@@ -12,9 +12,9 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Learning just as much as adding value"
+          - "Able to prioritise tasks based on importance and urgency, and request support as required; seeks clarification on requests and timelines."
           - "Has enough knowledge to make informed decisions"
-          - "Doesn’t necessarily know what they don’t know"
+          - "Delivers results through personal effort and skills"
       - level: 2
         criteria:
           - "Identifies areas/subjects they don’t know and proactively seeks out knowledge"

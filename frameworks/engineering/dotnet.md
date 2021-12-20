@@ -1,7 +1,7 @@
 ---
-path: "/engineering/backend"
-title: "🛠️ Backend Engineering Framework"
-sidebarTitle: "🛠️ Backend"
+path: "/engineering/dotnet"
+title: "🛠️ .Net Engineering Framework"
+sidebarTitle: "🛠️ .Net"
 sidebarGroup: "engineering"
 yaml: true
 levels: 6

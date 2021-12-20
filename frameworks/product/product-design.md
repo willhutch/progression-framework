@@ -1,8 +1,8 @@
 ---
-path: "/design/product-design"
+path: "/product/product-design"
 title: "🎯 Product Design Framework"
 sidebarTitle: "🎯 Product Design"
-sidebarGroup: "design"
+sidebarGroup: "product"
 yaml: false
 levels:
 homepage:
