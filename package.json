@@ -75,11 +75,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monzo/progression-framework.git"
+    "url": "git+https://github.com/willhutch/progression-framework.git"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0",
     "prop-types": "^15.6.0",
     "webpack": "^4.0.0"
-  }
+  },
+  "homepage": "https://willhutch.github.io/progression-framework/"
 }
