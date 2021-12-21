@@ -3,112 +3,108 @@ path: "/product/product-design"
 title: "🎯 Product Design Framework"
 sidebarTitle: "🎯 Product Design"
 sidebarGroup: "product"
-yaml: false
-levels:
-homepage:
+yaml: true
+levels: 6
+homepage: true
+topics:
+  - name: "knowledge"
+    title:
+    content:
+      - level: 1
+        criteria:
+      - level: 2
+        criteria:
+      - level: 3
+        criteria:
+      - level: 4
+        criteria:
+      - level: 5
+        criteria:
+      - level: 6
+        criteria:
+  - name: "teamwork"
+    title:
+    content:
+      - level: 1
+        criteria:
+      - level: 2
+        criteria:
+      - level: 3
+        criteria:
+      - level: 4
+        criteria:
+      - level: 5
+        criteria:
+      - level: 6
+        criteria:
+  - name: "impact"
+    title:
+    content:
+      - level: 1
+        criteria:
+      - level: 2
+        criteria:
+      - level: 3
+        criteria:
+      - level: 4
+        criteria:
+      - level: 5
+        criteria:
+      - level: 6
+        criteria:
+  - name: "mastery"
+    title: "🛠️ Mastery"
+    content:
+      - level: 1
+        criteria:
+          - "[placeholder]"
+      - level: 2
+        criteria:
+          - "[placeholder]"
+      - level: 3
+        criteria:
+          - "[placeholder]"
+      - level: 4
+        criteria:
+          - "[placeholder]"
+      - level: 5
+        criteria:
+          - "[placeholder]"
+      - level: 6
+        criteria:
+          - "[placeholder]"
 ---
-## Level 1
+### About our engineering progression frameworks
+The engineering progression framework is a tool that helps engineers and managers:
+- make development and career plans
+- talk about what we’re looking for from engineers in a consistent way
+- set a fair level of compensation.
 
+The framework is a compass, not a GPS.
 
+It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
-### Knowledge
+### How does it work?
+The framework covers all the things we’re looking for from engineers at Monzo. We’re interested in these five elements:
+- Mastery - Your Monzo knowledge and technical capability
+- Impact - The size, scope and value of what you deliver
+- Influence - How you change the world around you for the better
+- Comms & Feedback - How you interact with others
+- Leadership - How people around you become better and more impactful
 
-You are early on in your design career but have an educated understanding of the basics of visual (layout, type, colour, iconography) and interaction design (gestalt, Fitt's law, Hick's law, etc.), along with experience using Sketch or the tool of your choice to turn your knowledge into real design work. You are driven by the challenge of mastering your new craft, advancing your understanding of the fundamentals and history design, and feeding off the people around you to develop your knowledge.
+We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
 
-### Ownership
+Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
-You acknowledge the role of a product designer in owning a piece of work from end to end, and communicate clearly with PMs and designers in supporting you to achieve this. You work with other designers to help bring your work to the highest quality level, and whenever you need help you ask for it in a timely manner.
+### Things to keep in mind
+- There are many different ways to progress and be valuable to Monzo as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Monzo's engineering team.
+- The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
+- Engineering progression isn’t an exact science and there will always be some ambiguity.
+- This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
+- There will be levels on top (eg ‘Inventor of Android’ or ‘Author of Go’), but we won’t add them until we need them.
+- You can find some more information in these links. If that doesn't answer most of your questions, please ask your manager.
 
-### Collaboration
+### Give us your feedback!
+This is only the first version of our framework and we really want your feedback.
 
-You work with other designers to aid your understanding of how and why to make decisions, and the trade-offs that come with them. You seek out the information and feedback required to get tasks done while communicating back to those that are impacted by your decisions. You learn from your mistakes and take feedback graciously making the most of our design critique mechanisms. Along with this, you also support other designers in their work, bringing personal insights and feeling comfortable challenging decisions you see that could be improved.
-
----
-
-## Level 2
-
-
-
-### Knowledge
-
-You're totally proficient in multiple aspects of digital product design and user research. You always know how to use time, haptics, sound and motion to create the condition for a great product experience while carrying with you all the insights learnt during the discovery cycles. You don't always think about design principles because they come to you naturally without even thinking about it anymore. You've also mastered your toolkit to work as fast as the tools allow, you know all the shortcuts, you install plugins to work more efficiently and you know what's new on every single release of the tools you use.
-
-### Ownership
-
-You're involved in and own big (and not necessarily well defined) tasks and projects that will have a big impact. You're able to offer product direction into complex problems creating the perfect and easy to use product that Monzo is known for.
-
-### Collaboration
-
-You provide feedback and guidance to those around you. You help mentoring more junior staff and are a source of integrity and a model to follow. You're involved in hiring and actively help shaping the team culture. You are also very good at identifying opportunities for collaboration between different teams and are good at making problems smaller instead of bigger.
-
----
-
-## Level 3
-
-
-
-### Knowledge
-
-You've mastered interaction design and know enough about research to bridge the gaps. You've decided that in your career, you want to stay as an individual contributor, close to the pixels and their users. Your experience allows you to understand the business as a whole and to proactively identify where your impact can be bigger.
-
-### Ownership
-
-You define and completely own big tasks and coordinate well with others to get them done. Product vision, direction and execution don't represent a challenge to you anymore, and people just come to you knowing you'll have thought already of solutions.
-
-### Collaboration
-
-You are an excellent mentor and people constantly learn more from you during show and tell and feedback on Lattice. You put effort into hiring and you sometimes write blogposts or speak at conferences. These things elevate our design culture and make us better.
-
----
-
-## Level 4
-
-
-
-### Knowledge
-
-You've mastered multiple design disciplines but you also know who the experts are and are able to delegate accordingly.
-
-### Ownership
-
-You can take the long-term vision and define the building blocks needed to get there.
-
-### Collaboration
-
-You're very good at leading through influence. You're an effective teacher, able to formally and informally teach those around you. You’re highly recognised for your impact on team culture and people want to work with you.
-
----
-
-## Level 5
-
-
-
-### Knowledge
-
-You have a very wide breadth of knowledge and you can easily switch context and pick up on new concepts.
-
-### Ownership
-
-You understand the big picture and integrate the company goals into Design. You're also great at communicating the long-term vision & mission for the company.
-
-### Collaboration
-
-You inspire your team and can attract top talent to the organisation You unblock people outside of Design because of all the context and willingness you carry with you.
-
----
-
-## Level 6
-
-
-
-### Knowledge
-
-You have an immense amount of knowledge but also a very high-level understanding about how your function intersects with the rest of the company and business.
-
-### Ownership
-
-You are the accountable executive for very high-impact projects, things like a world-wide rebrand can be left in your hands with confidence.
-
-### Collaboration
-
-You inspire those around you and you're an effective leader of our culture and strategy. Even though you're not a manager full-time you have incredibly strong leadership and coaching abilities.
+We're particularly keen to add as many examples to the behaviours as possible, to further clarify them.
