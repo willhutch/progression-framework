@@ -7,6 +7,21 @@ yaml: true
 levels: 6
 homepage: true
 topics:
+  - name: "knowledge"
+    title:
+    content:
+      - level: 1
+        criteria:
+      - level: 2
+        criteria:
+      - level: 3
+        criteria:
+      - level: 4
+        criteria:
+      - level: 5
+        criteria:
+      - level: 6
+        criteria:
   - name: "teamwork"
     title:
     content:
@@ -42,96 +57,45 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Learns to write correct Go code, following guidance and training materials"
-          - "Fixes simple bugs"
+          - "Basic understanding of Object Orientated Programming principals."
+          - "Familiarity with/basic understanding of common design patterns"
+          - "Ability to write unit tests and understands the value in doing so."
       - level: 2
         criteria:
-          - "Designs simple database tables"
-          - "Implements asynchronous messaging between services"
-          - "Deploys services to staging and production"
-          - "Handles simple error cases in RPC handlers and message consumers"
-          - "Fixes bugs involving a number of services and can investigate production issues"
-          - "Uses appropriate algorithms and data structures to solve problems"
-          - "Writes automated unit and acceptance tests"
-        exampleCriteria:
-          - criteria: "Implements simple RPC handlers"
-            examples:
-              - "Basic CRUD handlers"
-              - "Internal/external API proxies"
-          - criteria: "Writes correct Go code following accepted best practices"
-            examples:
-              - "Follows our Coding Conventions & Best Practices, uses language-level primitives correctly"
+          - "Adheres to coding standards and best practises to produce clear and concise code. "
+          - "Understanding of and adherence to SOLID & DRY principals. "
+          - "Basic understanding of common design patterns (Creational, Structural, Behavioural) and able to follow what has already been implemented.  "
+          - "Follows the engineering ‘good scout’ rule (https://www.stepsize.com/blog/how-to-be-an-effective-boy-girl-scout-engineer) - exercising judgment around when to enhance/refactor code and when to flag it for a future iteration/further discussion. "
+          - "Comfortable and confident when carrying out peer reviews/pair programming sessions.  "
       - level: 3
         criteria:
-          - "Uses appropriate design patterns"
-          - "Designs new schemas comprising multiple tables"
-          - "Implements complex asynchronous messaging flows"
-          - "Co-ordinates complex deployments and database migrations"
-          - "Implements distributed systems consisting of multiple interacting services"
-          - "Produces technical designs that include a consideration of scalability"
-          - "Handles complex error cases in RPC handlers and message consumers"
-          - "Debugs production issues"
-          - "Considers metrics when building a new system"
-        exampleCriteria:
-          - criteria: "Writes idiomatic Go code"
-            examples:
-              - "Follows the guidelines in Effective Go (https://golang.org/doc/effective_go.html), avoids using patterns that are idiomatic in other languages"
-          - criteria: "Mitigates race conditions and partial failure states in distributed systems"
-            examples:
-              - "Uses locking where appropriate, writes code that is “self-healing” when dealing with distributed failure (e.g. data needs to be written in two or more services)"
-          - criteria: "Implements complex RPC handlers"
-            examples:
-              - "Implements complex business logic, orchestrates multi-stage processes, deals with idempotency or distributed data sources"
-          - criteria: "Proactively considers security implications of their work"    
-            examples:
-              - "Appropriately ties down internal access to resources they're working with (e.g. RPC blacklisting, BigQuery permissions)"
-              - "Evaluates security risks when contributing to proposals"
-              - "Highlights potential security issues when raising and reviewing pull requests - e.g. adding rate limiting in an API, or leaving a code comment to explain why we choose not to"
-              - "\"There's a risk here of X, Y but given Z, I think this is OK\""
-              - "Loops in Security when their squad is unsure about something by posting in #security-requests"
+          - "Demonstrates strong technical ability, delivering high quality distributed applications. "
+          - "Competency in safely delivering multi-threaded/asynchronous solutions."
+          - "A champion of quality within their team, who insists on comprehensive unit & automation testing covering everything the team deliver. "
+          - "Comfortable in offering technical mentoring and coaching to less experienced team members. "
+          - "Ability to pre-empt, identify and mitigate for non-functional requirements (performance, security, accessibility etc.) "
       - level: 4
         criteria:
-          - "Writes code that serves as a definitive example for new engineers"
-          - "Leads the refactoring (de-cruftification) of complex systems"
-          - "Debugs complex production issues at speed"
-          - "Identifies and fixes security vulnerabilities"
-          - "Identifies and fixes performance bottlenecks in individual services"
-          - "Explains all aspects of the platform to new engineers"
-          - "Includes actionable dashboarding as part of a new system"
-        exampleCriteria:
-          - criteria: "Implements services or libraries that require a deep level of domain knowledge"
-            examples:
-              - "Mastercard message parsing"
-              - "Credit decisioning"
-              - "CASS scheduling"
-              - "Google Pay"
-          - criteria: "Makes contributions to library code or core services"
-            examples:
-              - "Bug fixes, small improvements; things that don’t result in a major change in the public API"
-          - criteria: "Builds systems that scale reliably without intervention"
-            examples:
-              - "Services can withstand a year’s worth of growth in load/user base without needing first aid"
+          - "Ability and confidence to lead technical design/architectural discussions within the team."
+          - "Expert understanding of design patterns (Creational, Structural, Behavioural) and influences adoption of these where and when appropriate. "
+          - "Experience in taking ownership of complex and mission-critical Production issues, providing technical leadership through to resolution and producing RCA documentation as appropriate. "
+          - "Demonstrates pragmatism to weigh up the cost/impact of incurring tech debt vs. time to delivery. "
+          - "An advocate for industry best practises (DevOps, CI/CD, TDD etc.) "
       - level: 5
         criteria:
-          - "Builds systems that serve as definitive examples for new engineers"
-          - "Makes major contributions to library code or core services"
-          - "Contributes to external technologies or libraries that we depend on"
-          - "Develops clear technical solutions from ambiguous requirements"
-          - "Uncovers and fixes tricky bugs that have previously evaded detection"
-          - "Implements security improvements that impact multiple services"
-          - "Implements performance improvements that impact multiple services"
-          - "Demonstrates a deep level of knowledge in a specific area"
-          - "Serves as a technical authority on a technology or an area of the codebase"
-          - "Creates dashboards that broadly impact all engineers"
-        exampleCriteria:
-          - criteria: "Produces clear technical designs for large complex projects"
-            examples:
-              - "Outbound and Inbound MasterCard clearing proposals"
+          - "Recognized internally as an expert within the Microsoft .NET space. "
+          - "Evidence of implementing significant performance, scalability, and security improvements within Global’s suite of applications. "
+          - "Ability to lead large scale refactoring efforts, with an ability to justify where/why it makes business sense to do so. "
       - level: 6
         criteria:
-          - "Makes major contributions to technologies and libraries that we depend on"
-          - "Makes improvements to the stability, performance or security of the entire platform"
-          - "Serves as a technical authority in the wider engineering community"
+          - "A champion for engineering enablement, continually working across the organisation to reduce friction and roadblocks to delivery for the engineering group. "
+          - "Heavily influences the technical direction of the business; technologies adopted, patterns and principals implemented. "
+          - "Regarded as a technical figurehead across the business. "
+          - "Experience in leading technical/architectural initiatives across multiple concurrent teams/the entire organisation. "
+        exampleCriteria:
+          - criteria: "-"
+            examples:
+              - "Example placeholder"
 ---
 ### About our engineering progression frameworks
 The engineering progression framework is a tool that helps engineers and managers:
