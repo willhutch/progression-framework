@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.monzo.com">
-    <img alt="Monzo favicon" src="https://d33wubrfki0l68.cloudfront.net/673084cc885831461ab2cdd1151ad577cda6a49a/92a4d/static/images/favicon.png" width="60" />
-  </a>
-</p>
 <h1 align="center">
     Progression at Global
 </h1>
@@ -91,7 +86,7 @@ topics:
         criteria:
           - "Follows policies and procedures applicable to role. Completes training."
           - "Accepts feedback graciously and acts on it. Gives feedback when requested"
-          - "Builds relationships within monzo and contributes to building a supportive, knowledgable and engaged peer group"
+          - "Builds relationships within Global and contributes to building a supportive, knowledgable and engaged peer group"
         exampleCriteria:
           -  criteria: "A criteria with an example point goes here"
              examples:
@@ -110,7 +105,7 @@ You can also add examples, by putting them in the `exampleCriteria` object, defi
 
 ---
 
-If you need any help and are a Monzonaut, ping @lucas a message or put a message in #org-scaling. Otherwise, feel free to raise an issue here in GitHub.
+If you need any help and are a Globaller, ping Will a message or put a message in #org-scaling. Otherwise, feel free to raise an issue here in GitHub.
 
 ## ✏️ How do I edit a framework?
 
@@ -125,7 +120,7 @@ This will automatically save your changes and open a pull request, allowing the 
 
 **Repository (Repo)**: A folder in GitHub where files live
 
-*If you've seen the word 'repo', we're probably talking about the Progression Framework folder in GitHub that you're on right now (https://github.com/monzo/progression-framework)*
+*If you've seen the word 'repo', we're probably talking about the Progression Framework folder in GitHub that you're on right now*
 
 **Pull Request (PR)**: A request to change a file, or multiple files on GitHub
 
@@ -137,4 +132,4 @@ This will automatically save your changes and open a pull request, allowing the 
 
 
 ### 🤓 Looking for technical documentation?
-Take a look at the readme in the `src/` directory (https://github.com/monzo/progression-framework/blob/master/src/README.md)
+Take a look at the readme in the `src/` directory 

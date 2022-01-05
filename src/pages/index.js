@@ -29,30 +29,61 @@ export default class Index extends React.Component<Props> {
           </DescriptionTitleGroup>
           <Description>
             <DescriptionText>
-              This is where we keep the progression frameworks we use at Global.
-              This framework is based on the Monzo career framework which we have
-              copied and made to fit Global.
+              Welcome to the home of the Tech & Digital Department’s Career Pathways Framework here at Global.  This
+              site has been built to provide clearer direction and clarity for those at Global, for areas that they can
+              focus on for development, and to provide a tool to support open and fair conversations between managers
+              and their reports.
             </DescriptionText>
             <DescriptionText>
-              Progression frameworks are tools that help us evaluate and pay our
-              staff consistently, and help people understand how to progress in
-              their work.
+              This Framework has been developed through a range of contributors from across the department, and is a
+              living reflection of their work - further suggestions are very much welcomed!  Please suggest your changes to
+              Will or Anahita, or make amendments in a pull request on the GitHub site
             </DescriptionText>
             <DescriptionText>
-              We&apos;ll be adding more frameworks as we build them, and
-              updating existing ones as we grow, so expect things to change
-              around here!
+              We’re gradually building this out across teams within the department, so if you can’t see your department
+              on here yet - stay tuned or get involved in supporting its development yourself!
             </DescriptionText>
             <DescriptionText>
-              This site, along with all our progression frameworks, are open
-              source. That means you can contribute to the development of this
-              site or our progression frameworks, and use both as inspiration
-              for your own projects!
+              For those interested in joining us at Global?  Amazing! 🙌  You can find out more here:
+              <br />
+              <a href="https://jobs.global.com/">Global Jobs</a>
+              <br />
+              <br />
+
             </DescriptionText>
-            <DescriptionText>
-              Take a look around and let us know what you think! 🚀
-            </DescriptionText>
-          </Description>
+            </Description>
+          <DescriptionTitleGroup>
+              <Subtitle>So... how does it work? 🤔</Subtitle>
+              <Title></Title>
+            </DescriptionTitleGroup>
+            <Description>
+               <DescriptionText>
+                      On the sidebar, you’ll find our “Generic” attributes.  These are attributes which we see as being
+                      core to all Globallers in Tech & Digital.  Navigating the levels in the top right will show how
+                      these attributes change as Globallers develop their careers.
+                </DescriptionText>
+                <DescriptionText>
+                      Each team has it’s own section, where you’ll see the “Generic” attributes
+                      alongside each team’s own set of “Mastery” attributes. These attributes
+                      are specific to mastering a particular skillset associated with a team.
+                </DescriptionText>
+                <DescriptionText>
+                      All attributes (including the “Generic” ones) are designed to provide direction,
+                      but also to constantly evolve.  So please do make suggestions and changes! We want
+                      Globallers to be the best they can be, which only happens with everyone’s input!
+                </DescriptionText>
+
+                
+
+                <DescriptionText>
+                    Take a look around and let us know what you think! 🚀
+                </DescriptionText>
+                    <DescriptionText>
+                          Please note that this Framework is forked from the brilliant open source Monzo framework:
+                            <br />
+                          <a href="https://github.com/monzo/progression-framework">Monzo Framework</a>
+                    </DescriptionText>
+            </Description>
         </DescriptionView>
       </Layout>
     )
