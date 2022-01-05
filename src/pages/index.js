@@ -73,7 +73,7 @@ export default class Index extends React.Component<Props> {
                       Globallers to be the best they can be, which only happens with everyone’s input!
                 </DescriptionText>
 
-                
+
 
                 <DescriptionText>
                     Take a look around and let us know what you think! 🚀

@@ -102,8 +102,8 @@ topics:
         criteria:
           - "Still to come!"
 ---
-### About our engineering progression frameworks
-The engineering progression framework is a tool to help everyone:
+### About our progression frameworks
+The progression framework is a tool to help everyone:
 - make development and career plans
 - talk about what we’re looking for from Globallers in a consistent way
 
