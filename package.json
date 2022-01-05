@@ -2,8 +2,8 @@
   "name": "@mondough/progression-framework",
   "private": true,
   "version": "1.0.0",
-  "description": "Monzo's progression framework site",
-  "author": "Lucas Johnston <lucasjohnston@monzo.com>",
+  "description": "Global's progression framework site",
+  "author": "Global Team; Lucas Johnston <lucasjohnston@monzo.com> from Monzo",
   "engines": {
     "node": "^14.15.0",
     "yarn": "^1.22.1"

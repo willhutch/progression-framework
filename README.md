@@ -4,12 +4,12 @@
   </a>
 </p>
 <h1 align="center">
-    Progression at Monzo
+    Progression at Global
 </h1>
 
-🎉 Welcome to the Progression at Monzo repository
+🎉 Welcome to the Progression at Global repository
 
-This is where all of Monzo's progression frameworks live, as well as the site that powers `progression.monzo.com` 💪
+This is where all of Global's progression frameworks live 💪
 
 **Get stuck? There's a glossary at the bottom of this readme!**
 
@@ -23,7 +23,7 @@ We mainly use GitHub in Engineering, as it allows engineers to review each other
 
 We're using GitHub to store our progression frameworks for a few reasons:
 - It's public (or open source), meaning we can share this with the community and allow them to contribute!
-- Monzonauts can "own" or manage a framework (or frameworks), meaning they get to control any changes or additions in that area
+- Globallers can "own" or manage a framework (or frameworks), meaning they get to control any changes or additions in that area
 - It means we can build a super fast site 🚀
 
 ## ❔ How does this work?
